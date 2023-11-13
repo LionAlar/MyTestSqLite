@@ -34,3 +34,4 @@ for alakn in alakanchiki:
   print(alakn)
 
 print("jopa")
+print("jopa2")
