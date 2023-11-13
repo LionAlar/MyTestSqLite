@@ -32,3 +32,5 @@ print(type(alakanchiki))
 # Выводим результаты
 for alakn in alakanchiki:
   print(alakn)
+
+print("jopa")
